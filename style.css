@@ -19,8 +19,6 @@ body{
 nav{
   top: 0px;
   height: 50px;
-  position:fixed;
-  overflow:hidden;
   /* background-image: linear-gradient(to right,#25CBCB , #1A3083); */
 
 }
